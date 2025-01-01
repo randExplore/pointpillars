@@ -1,0 +1,10 @@
+numba
+numpy
+open3d
+opencv_python
+torch
+torchvision
+tqdm
+Pillow
+easydict
+matplotlib
