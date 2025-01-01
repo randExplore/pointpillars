@@ -1,5 +1,5 @@
 # Simple Pointpillars Pytorch Implementation
-This repository originally comes from my final project of CS7643 Deep Learning. 
+This repository originally comes from my final project of CS7643 Deep Learning course. 
 
 This repo implements the Pointpillars model based on Pytorch for 3D object detection in autonomous driving scenarios.
 It references from [mmdetection3d](https://github.com/open-mmlab/mmdetection3d), 
